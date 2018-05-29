@@ -1,0 +1,15 @@
+{
+  "name": "user-folders",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "win-shell-folders": "0.0.3",
+    "xdg-user-dir": "0.0.1"
+  }
+}
